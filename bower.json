@@ -37,6 +37,7 @@
     "datatables-responsive": "1.0.6",
     "bootstrap-social": "~4.8.0",
     "flot.tooltip": "~0.8.4",
-    "jquery-validation": "1.15.*"
+    "jquery-validation": "1.15.*",
+    "bootstrap-datepicker": "1.6.*"
   }
 }
